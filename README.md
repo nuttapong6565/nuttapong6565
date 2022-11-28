@@ -16,6 +16,9 @@
 <h3>
   👨‍💻 About me
 </h3>
+<p>
+   coming soon...
+</p>
 <hr/>
 <h3>
   🚀 Tools And Skills I Used
